@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on CoreBI SA as a Cloud Engineer and Data Scientist.
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 👨‍💻 All of my projects are available at [github.com/vzta](github.com/vzta)
 
 - 📫 How to reach me **julliervh@gmail.com**
