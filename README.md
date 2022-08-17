@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vzta" alt="vzta" /></a> </p>
 
-- 🔭 I’m currently working on Gradiente SpA - SODIMAC **fixing and follow-up errors in DB**
+- 🔭 I’m currently working on CoreBI SA as a Cloud Engineer and Data Scientist.
 
 - 🌱 I’m currently learning **Machine Learning**
 
