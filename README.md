@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on COREBI SA as Cloud Engineer / Data Scientist **Route Projections**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/vzta](github.com/vzta)
 
