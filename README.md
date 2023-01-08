@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Jullier</h1>
-<h3 align="center">A Data Analyst and data science enthusiast</h3>
+<h3 align="center">A Data Engineer and Machine Learning Engineer enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vzta&label=Profile%20views&color=0e75b6&style=flat" alt="vzta" /> </p>
 
