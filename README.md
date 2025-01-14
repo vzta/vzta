@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vzta" alt="vzta" /></a> </p>
 
-- 🔭 I’m currently working on COREBI SA as Cloud Engineer / Data Scientist **Route Projections**
+- 🔭 I’m currently working at Teladoc Health as a Cloud Data Engineer **Route Projections**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
